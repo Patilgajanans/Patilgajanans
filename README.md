@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/Patilgajanans" target="_blank">
+  <a href="https://www.linkedin.com/in/gajanan-patil-4a9178158" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=black&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/Patilgajanans" target="_blank">
