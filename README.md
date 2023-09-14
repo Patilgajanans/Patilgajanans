@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 , I am Gajanan Patil</h1>
 
 ###
-<img align="left" height="220" src= "https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"  />
+<img align="left" height="220" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"  />
 
 ###
 
-<img align="right" height="204" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif"  />
+<img align="right" height="204"  src= "https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif"  />
 
 
 ###
